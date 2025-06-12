@@ -1,0 +1,71 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "H1",
+      "login": "h1@gmail",
+      "document": "123",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "H2",
+      "login": "h2@gmail",
+      "document": "456",
+      "password": "123"
+    },
+    {
+      "name": "h22",
+      "password": "123",
+      "document": "06026604677",
+      "login": "h22@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "h23",
+      "password": "123",
+      "document": "06026604677",
+      "login": "h23@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "h234",
+      "password": "123",
+      "document": "06026604677",
+      "login": "h234@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "maria",
+      "password": "489",
+      "document": "06026604678",
+      "login": "maria@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "teste ",
+      "password": "123",
+      "document": "06026604679",
+      "login": "teste@gmail.com",
+      "id": 7
+    }
+  ],
+  "Jokes": [
+    {
+      "id": 1,
+      "title": "Trocadilho 1"
+    },
+    {
+      "id": 2,
+      "title": "Trocadilho 2"
+    },
+    {
+      "id": 3,
+      "title": "Trocadilho 3"
+    },
+	{
+      "id": 4,
+      "title": "Trocadilho 4"
+    }
+  ]
+}
